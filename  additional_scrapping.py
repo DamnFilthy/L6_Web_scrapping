@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import datetime
-import pprint
 
 # Определяем список ключевых слов
 KEYWORDS = ['привет', 'атака', 'объектно-ориентированное программирование', 'darpa', 'китай']
